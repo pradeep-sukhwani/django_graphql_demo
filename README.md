@@ -1,6 +1,6 @@
 # Graphql
 * A Quick Demo of [Graphql](https://graphql.org/)
-* For django we will need [Graphene-Django] (https://docs.graphene-python.org/projects/django/en/latest/#graphene-django)
+* For django we will need [Graphene-Django](https://docs.graphene-python.org/projects/django/en/latest/#graphene-django)
 
 # Quick Start:
 * git clone https://github.com/pssukhwani/django_graphql_demo
