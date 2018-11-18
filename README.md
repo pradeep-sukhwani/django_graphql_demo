@@ -1,1 +1,2 @@
-# django_graphql_demo
+# Graphql
+>> A Quick Demo of [Graphql](https://graphql.org/)
